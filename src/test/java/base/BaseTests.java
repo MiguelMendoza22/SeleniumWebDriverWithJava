@@ -9,6 +9,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import pages.HomePage;
 
+import java.util.concurrent.TimeUnit;
 
 
 public class BaseTests {
@@ -22,6 +23,7 @@ public class BaseTests {
         ChromeOptions co = new ChromeOptions();
         co.addArguments("--remote-allow-origins=*");
         driver = new ChromeDriver(co);
+        //driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         goHome();
         driver.manage().window().maximize();
 

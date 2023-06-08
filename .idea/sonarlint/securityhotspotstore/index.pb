@@ -19,17 +19,7 @@ Q
 !src/test/java/keys/KeysTests.java,a\d\ad62392d4fed75bc68550e87a1e8e30dd2b09465
 U
 %src/test/java/alerts/AlertsTests.java,7\b\7b38e5fa6c44bf64f1336b60720acb48ef2ff05c
-Q
-!src/test/java/base/BaseTests.java,1\9\19f149529b2bd71032174e3d2f902a3b73e927fc
-Q
-!src/main/java/pages/HomePage.java,9\6\9655b2a35fae75d92697b79cda62632f93f33e6e
 T
 $src/main/java/pages/EntryAdPage.java,3\6\366f68c3b1e2b8350d3ab8ffcde6c4196195c055
 U
 %src/main/java/pages/DropdownPage.java,2\f\2fef3dd0e54bbc03f744579bf30e89f3fd66994c
-S
-#src/main/java/pages/AlertsPage.java,7\b\7b7b098dd5bf296710e5b233634cec71403e76ae
-X
-(src/test/java/alerts/FileUploadTest.java,1\6\1610d36de3620c0710f007506a52c6fae4f56b23
-W
-'src/main/java/pages/FileUploadPage.java,3\4\34072ae467fdffab1e5dadd466f9256c82ec7b04
